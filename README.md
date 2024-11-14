@@ -26,9 +26,9 @@ Classic pen & paper (can’t beat it!), Figma, Visual Studio Code, MySQL Workben
 ✨ **Ready for a front-end development internship by Summer 2025!** If you’re seeking a creative, committed junior developer with a design twist, let’s connect!
 
 ## Fun Facts About Me 🌎
-🎶 I’m a jazz lover and sing everything from Amy Winehouse to Louis Armstrong.
-📜 Greek mythology geek! I read Homer’s Iliad as a teenager and love exploring its interpretations.
-🚶‍♀️ In November 2024, I walked 100,000 steps in a single day!
-🌍 I speak three languages—English, French, and Spanish.
-🇪🇨 I’ve stood in the middle of the world in Ecuador!
-🧘‍♀️ I’m a spiritual person who balances life with meditation, fitness, and mindful living.
+- 🎶 I’m a jazz lover and sing everything from Amy Winehouse to Louis Armstrong.
+- 📜 Greek mythology geek! I read Homer’s Iliad as a teenager and love exploring its interpretations.
+- 🚶‍♀️ In November 2024, I walked 100,000 steps in a single day!
+- 🌍 I speak three languages—English, French, and Spanish.
+- 🇪🇨 I’ve stood in the middle of the world in Ecuador!
+- 🧘‍♀️ I’m a spiritual person who balances life with meditation, fitness, and mindful living.
