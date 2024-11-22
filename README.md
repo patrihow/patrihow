@@ -1,34 +1,28 @@
-# Howdy! 👋 I’m Patricia—call me Patri!
+# Howdy! 👋 I'm Patri (@patrihow)  
 
-I’m a **Graphic Designer** with a bachelor’s degree and over 5 years of international experience in digital marketing, UX/UI, and design. My career has spanned diverse industries, from e-commerce and AI to retail and tourism. Currently, I’m diving deeper into web development at Collège de Maisonneuve, focusing on creating sustainable and accessible designs with a digital edge. 🌍
+🎨 **Graphic Designer turned Web Developer in training**  
+With 5+ years of experience in UX/UI, branding, and digital marketing, I thrive in creating sustainable, accessible, and user-centered digital experiences. Currently, I’m diving into web development at Collège de Maisonneuve and aiming for a **front-end development internship by Summer 2025**
 
-## A Little About Me
-Having worked across Latin America and North America, I love collaborating in bilingual, multicultural teams. I’m all about agile methods and believe in fostering healthy, inspiring work environments where everyone’s unique talents can flourish. 🌱
+## 🌟 What I Bring to the Table:  
+- 🖌️ Rapid wireframing & prototyping  
+- 💡 User-centered UI design with a focus on accessibility  
+- 🎨 Branding & digital illustration  
+- 🔗 Design systems for consistent experiences  
 
-## Here’s What I Bring:
-- Rapid wireframing & prototyping
-- UI design & user-centered layouts
-- Branding & social media
-- Design systems for consistency
-- Digital illustration
+## 🎓 What I’m Learning:  
+- 🌐 HTML, CSS, JavaScript, and PHP  
+- 🛠️ Git/GitHub for seamless collaboration  
+- 🖥️ WordPress development & MySQL  
 
-## Currently Learning:
-- JavaScript for interactivity
-- HTML & CSS for beautiful, responsive layouts
-- PHP for back-end support
-- Version control (Git/GitHub) for collaboration
-- WordPress development
-- MySQL databases
+## 💼 Toolbox:  
+Figma | Visual Studio Code | MySQL Workbench | Procreate | Adobe Suite  
 
-## My Toolbox 🛠️
-Classic pen & paper (can’t beat it!), Figma, Visual Studio Code, MySQL Workbench, Procreate, Photoshop, Illustrator.
+## 🚀 Why Work With Me:  
+I’m all about **collaborative, agile work environments** where ideas flow and teams grow. Reliable, disciplined, and fun to work with, I share knowledge freely and value inclusive design that lasts.  
 
-✨ **Ready for a front-end development internship by Summer 2025!** If you’re seeking a creative, committed junior developer with a design twist, let’s connect!
+## 🎉 Fun Facts:  
+- 🌍 Fluent in English, French, and Spanish  
+- 🚶‍♀️ Walked 100,000 steps in a single day (still recovering!)  
+- ✍️ Always doodling and documenting my learning on GitHub @patrihow  
 
-## Fun Facts About Me 🌎
-- 🎶 I’m a jazz lover and sing everything from Amy Winehouse to Louis Armstrong.
-- 📜 Greek mythology geek! I read Homer’s Iliad as a teenager and love exploring its interpretations.
-- 🚶‍♀️ In November 2024, I walked 100,000 steps in a single day!
-- 🌍 I speak three languages—English, French, and Spanish.
-- 🇪🇨 I’ve stood in the middle of the world in Ecuador!
-- 🧘‍♀️ I’m a spiritual person who balances life with meditation, fitness, and mindful living.
+Let’s connect and build something amazing! ✨  
