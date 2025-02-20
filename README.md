@@ -1,28 +1,42 @@
-# Howdy! 👋 I'm Patri (@patrihow)  
+# Hi, I'm Patricia Bravo! 👋
 
-🎨 **Graphic Designer turned Web Developer in training**  
-With 5+ years of experience in UX/UI, branding, and digital marketing, I thrive in creating sustainable, accessible, and user-centered digital experiences. Currently, I’m diving into web development at Collège de Maisonneuve and aiming for a **front-end development internship by Summer 2025**
+## ✨ Looking for a website that reflects your brand and attracts clients?
+I'm a **Front-End Web Developer + UX/UI Designer** based in Montreal. I specialize in building intuitive, accessible, and visually compelling digital experiences for freelancers, startups, and businesses looking to stand out online.
 
-## 🌟 What I Bring to the Table:  
-- 🖌️ Rapid wireframing & prototyping  
-- 💡 User-centered UI design with a focus on accessibility  
-- 🎨 Branding & digital illustration  
-- 🔗 Design systems for consistent experiences  
+---
 
-## 🎓 What I’m Learning:  
-- 🌐 HTML, CSS, JavaScript, and PHP  
-- 🛠️ Git/GitHub for seamless collaboration  
-- 🖥️ WordPress development & MySQL  
+## 🚀 What I Do
 
-## 💼 Toolbox:  
-Figma | Visual Studio Code | MySQL Workbench | Procreate | Adobe Suite  
+### 🖌️ Design & UX
+- **User-Centered UI Design** with a focus on accessibility
+- **Wireframing & Prototyping** (Figma)
+- **Scalable Design Systems & Branding**
+- **Digital Illustration & Visual Storytelling**
 
-## 🚀 Why Work With Me:  
-I’m all about **collaborative, agile work environments** where ideas flow and teams grow. Reliable, disciplined, and fun to work with, I share knowledge freely and value inclusive design that lasts.  
+### 🌱 Currently Learning
+- **Responsive Web Development** (HTML, CSS, JavaScript, React)
+- **WordPress Development & MySQL**
+- **Version Control** (Git/GitHub)
+- **Performance Optimization & SEO**
+- **Advanced Accessibility Techniques**
+- **Building Scalable & Maintainable Code**
 
-## 🎉 Fun Facts:  
-- 🌍 Fluent in English, French, and Spanish  
-- 🚶‍♀️ Walked 100,000 steps in a single day (still recovering!)  
-- ✍️ Always doodling and documenting my learning on GitHub @patrihow  
+---
 
-Let’s connect and build something amazing! ✨  
+## ✨ Why Work With Me?
+I combine **design thinking, clean code, and user-centered strategies** to create websites that are both functional and engaging. Detail-oriented and problem-solving driven, I focus on making the web **more inclusive, efficient, and impactful**.
+
+🔹 **Trilingual:** English, French & Spanish  
+🔹 **User-Focused & Detail-Oriented**  
+🔹 **Lifelong Learner & Problem-Solver**  
+
+---
+
+## 🎉 Fun Facts
+- Walked **100,000 steps in a single day** (November 2024) 🚶‍♀️
+- Always doodling and documenting my learning ✍️
+- Passionate about blending **art, tech, and storytelling**
+
+🚀 Need a website that truly represents your brand? Let’s connect! ✨  
+📬 [LinkedIn](https://www.linkedin.com/in/pattibravo/) | 🐙 [GitHub @patrihow](#)
+
