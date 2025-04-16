@@ -38,5 +38,4 @@ I combine **design thinking, clean code, and user-centered strategies** to creat
 - Passionate about blending **art, tech, and storytelling**
 
 🚀 Need a website that truly represents your brand? Let’s connect! ✨  
-📬 [LinkedIn](https://www.linkedin.com/in/pattibravo/) | 🐙 [GitHub @patrihow](#)
-
+📬 [LinkedIn - Professional Profile](https://www.linkedin.com/in/pattibravo/) | 🎨 [Instagram - Dev Life Comics](https://www.instagram.com/patrihow/) | 🐙 [GitHub @patrihow](https://github.com/patrihow)
