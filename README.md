@@ -20,7 +20,7 @@ I’m a UX/UI designer expanding into front-end integration, focused on creating
 | Front-End      | Back-End / CMS     | Tools & Workflow      | Visual & Animation     |
 |:--------------:|:------------------:|:---------------------:|:----------------------:|
 | HTML5, CSS3/SCSS | WordPress (custom themes, CMS integration) | Git, JIRA, Agile | Figma, Adobe CC, GSAP, SVG |
-| JavaScript (ES6+) | Vue.js, MySQL    | VS Code, Linux (basics) | Digital Illustration   |
+| JavaScript (ES6+) | Vue.js, MySQL    | VS Code | Digital Illustration   |
 | React, APIs    |                    |                       | Motion Design          |
 | Accessibility (WCAG), Performance Optimization | | | |
 
