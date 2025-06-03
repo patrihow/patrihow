@@ -11,8 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a UX/UI designer expanding into front-end integration, focused on creating accessible, interactive, and visually engaging web experiences.  
-Currently completing a Web development program in Montréal.
+I’m a UX/UI designer expanding into front-end integration, focused on creating accessible, interactive, and visually engaging web experiences. Currently completing a Web development program in Montréal.
 
 ---
 
