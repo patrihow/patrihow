@@ -1,41 +1,65 @@
-# Hi, I'm Patricia Bravo! 👋
+# 👋 Hi, I'm Patricia Bravo
 
-## ✨ Looking for a website that reflects your brand and attracts clients?
-I'm a **Front-End Web Developer + UX/UI Designer** based in Montreal. I specialize in building intuitive, accessible, and visually compelling digital experiences for freelancers, startups, and businesses looking to stand out online.
+**Front-End Developer in Training | UX/UI Designer | Accessibility & Interactive Web | Montréal**
 
----
-
-## 🚀 What I Do
-
-### 🖌️ Design & UX
-- **User-Centered UI Design** with a focus on accessibility
-- **Wireframing & Prototyping** (Figma)
-- **Scalable Design Systems & Branding**
-- **Digital Illustration & Visual Storytelling**
-
-### 🌱 Currently Learning
-- **Responsive Web Development** (HTML, CSS, JavaScript, React)
-- **WordPress Development & MySQL**
-- **Version Control** (Git/GitHub)
-- **Performance Optimization & SEO**
-- **Advanced Accessibility Techniques**
-- **Building Scalable & Maintainable Code**
+[![Portfolio](https://img.shields.io/badge/Portfolio-patrihow.com-blue)](https://www.patrihow.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PatriciaBravo-blue)](https://www.linkedin.com/in/patrihow)
+[![ADPList Mentor](https://img.shields.io/badge/Mentor-ADPList-blue)](https://adplist.org/mentors/patricia-bravo)
+[![GitHub](https://img.shields.io/badge/GitHub-@patrihow-black)](https://github.com/patrihow)
 
 ---
 
-## ✨ Why Work With Me?
-I combine **design thinking, clean code, and user-centered strategies** to create websites that are both functional and engaging. Detail-oriented and problem-solving driven, I focus on making the web **more inclusive, efficient, and impactful**.
+## 👩‍💻 About Me
 
-🔹 **Trilingual:** English, French & Spanish  
-🔹 **User-Focused & Detail-Oriented**  
-🔹 **Lifelong Learner & Problem-Solver**  
+I’m a UX/UI designer expanding into front-end integration, focused on creating accessible, interactive, and visually engaging web experiences.  
+Currently completing a Web development program in Montréal.
 
 ---
 
-## 🎉 Fun Facts
-- Walked **100,000 steps in a single day** (November 2024) 🚶‍♀️
-- Always doodling and documenting my learning ✍️
-- Passionate about blending **art, tech, and storytelling**
+## 🛠️ Tech Stack
 
-🚀 Need a website that truly represents your brand? Let’s connect! ✨  
-📬 [LinkedIn - Professional Profile](https://www.linkedin.com/in/pattibravo/) | 🎨 [Instagram - Dev Life Comics](https://www.instagram.com/patrihow/) | 🐙 [GitHub @patrihow](https://github.com/patrihow)
+| Front-End      | Back-End / CMS     | Tools & Workflow      | Visual & Animation     |
+|:--------------:|:------------------:|:---------------------:|:----------------------:|
+| HTML5, CSS3/SCSS | WordPress (custom themes, CMS integration) | Git, JIRA, Agile | Figma, Adobe CC, GSAP, SVG |
+| JavaScript (ES6+) | Vue.js, MySQL    | VS Code, Linux (basics) | Digital Illustration   |
+| React, APIs    |                    |                       | Motion Design          |
+| Accessibility (WCAG), Performance Optimization | | | |
+
+---
+
+## 🚀 Key Strengths
+
+- Converting Figma designs into responsive, maintainable code
+- Building accessible, user-friendly websites
+- Integrating motion and visual elements for engaging UIs
+
+---
+
+## 🏆 Recent Projects
+
+- [React SPA with external APIs](https://github.com/patrihow/ghibli-catalogue)
+- CMS platforms with Vue.js and MySQL
+- Custom WordPress sites focused on usability
+- [Sokobana – Puzzle Game (JavaScript)](https://github.com/patrihow/sokobana)
+
+---
+
+## 🌱 Community
+
+Mentor for junior designers on [ADPList](https://adplist.org/mentors/patricia-bravo), guiding portfolio and tech skills.
+
+---
+
+## 📬 Open to
+
+Front-end integration internship in Montréal (August 2025).
+
+---
+
+## 🌐 Portfolio & Contact
+
+- **Portfolio:** [www.patrihow.com](https://www.patrihow.com)
+- **LinkedIn:** [Patricia Bravo](https://www.linkedin.com/in/patrihow)
+- **Instagram:** [Patricia Bravo](https://www.instagram.com/patrihow/)
+- **Languages:** English, French, Spanish
+
