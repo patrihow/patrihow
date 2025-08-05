@@ -2,51 +2,76 @@
   <img src="https://github.com/patrihow/patrihow.github.io/blob/main/assets/images/banner-readme-GitHub.png" alt="Patrihow GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Patricia 👋</h1>
+<h1 align="center">Hi, I'm Patricia 👋</h1>
 
 <p align="center">
-  <strong>Front-End Developer in Training · UX/UI Designer</strong><br>
-  I craft accessible, interactive, and joyful web experiences.
+  <strong>Front-End Developer · UX/UI Designer</strong><br>
+  Bridging design and code to build accessible, inclusive, and engaging digital experiences.
 </p>
 
 ---
 
 ### 🌟 About Me
 
-I'm a designer-turned-developer based in Montréal, currently completing a full-stack web development program. I focus on accessibility, digital wellness, and building experiences for real people.
+I'm a designer-turned-developer based in Montréal with 7+ years of experience in digital design across North and Latin America. Currently completing a full-stack web development program at Collège Maisonneuve (graduating October 2025), I’m combining a strong visual background with solid technical skills to create responsive and user-centered web experiences.
 
-- 🧠 I explore mental health in tech & sustainable digital life  
-- 🐱 My cat Pepper stars in comics about burnout, boundaries, and healing  
-- 💡 I blend storytelling, design, and code to bring ideas to life  
-- 🧘‍♀️ Morning gym, journaling, and traditional art keep me grounded  
-- 🔧 Learning React, GitHub, and time management — one step at a time  
+- 💡 Passionate about accessibility (WCAG), digital wellness & performance  
+- 🧵 I create web comics to explore mental health, burnout, and boundaries in tech  
+- ✨ I love blending motion, interaction, and storytelling in everything I build  
+- 🐱 My cat Pepper (sarcastic sidekick) makes regular appearances in my comics  
+- 🧘‍♀️ Outside the screen: gym mornings, traditional art, and mindful routines  
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ Skills & Tools
 
-**Design:**  
+**Design**  
 Figma · Illustrator · Procreate · Photoshop
 
-**Frontend:**  
-HTML · CSS · Sass · JavaScript · React · Bootstrap · Tailwind
+**Front-End**  
+HTML5 · CSS3/SCSS · JavaScript · React · Vue.js · Bootstrap · Tailwind · GSAP · SVG
 
-**Workflow:**  
-Git & GitHub · WordPress · VSCode · Notion
+**Development**  
+PHP · WordPress (ACF + REST API) · Custom CMS · API integration
+
+**Workflow**  
+Git & GitHub · VSCode · Notion · JIRA · Agile methods
+
+---
+
+### 🧩 What I Do Best
+
++ Transform Figma mockups into accessible, responsive, production-ready code  
++ Build inclusive, user-friendly WordPress sites and custom CMS dashboards  
++ Integrate multimedia features, motion design, and storytelling into UX  
++ Collaborate with multidisciplinary teams from ideation to deployment
 
 ---
 
 ### 🧵 Comics & Blog
 
-My first comic explores the **burnout** I experienced during a demanding dev project — skipping meals, losing time with loved ones, and learning (the hard way) how to set boundaries.
+My first comic explores **burnout** during a demanding development project — skipping meals, losing time with loved ones, and learning to set boundaries. It’s a blend of storytelling, emotion, and self-reflection.
 
-#### 📚 Blog & Comics (coming soon):
+#### 📚 Follow along here:
 
-- [`dev.to/patrihow`](https://dev.to/patrihow) – Articles on tech, boundaries & creative healing  
-- [`ko-fi.com/patrihow`](https://ko-fi.com/patrihow) – Support & digital downloads  
-- [`instagram.com/patrihow`](https://www.instagram.com/patrihow) – Visual storytelling & updates
+- [`dev.to/patrihow`](https://dev.to/patrihow) – Articles on tech, mental health & creativity  
+- [`ko-fi.com/patrihow`](https://ko-fi.com/patrihow) – Support my comics, zines & digital downloads  
+- [`instagram.com/patrihow`](https://www.instagram.com/patrihow) – Comics & creative updates
 
-> **Upcoming topics:** Burnout recovery · Emotional health in dev life · Creative routines · Boundaries in tech
+> **Upcoming topics:** Burnout recovery · Emotional health in tech · Healthy routines · Creative boundaries
+
+---
+
+### 💼 Opportunities
+
+I'll be open to new freelance and full-time opportunities starting **October 2025**. I'm especially excited about roles in:
+
+- Front-end development  
+- UX/UI and design systems  
+- Accessibility & inclusive tech  
+- WordPress and custom CMS projects  
+
+📬 Contact: **info@patrihow.com**
 
 ---
 
@@ -60,7 +85,7 @@ My first comic explores the **burnout** I experienced during a demanding dev pro
 
 ---
 
-### 🌐 Find Me Online
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrihow/" target="_blank">
@@ -80,5 +105,5 @@ My first comic explores the **burnout** I experienced during a demanding dev pro
 ---
 
 <p align="center">
-  💖 Creating meaningful web experiences with creativity, care, and cozy vibes.
+  💖 Building meaningful digital experiences — with empathy, motion, and a hint of cozy.
 </p>
