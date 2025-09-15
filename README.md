@@ -50,13 +50,6 @@ Currently completing a full-stack web dev program (graduating **October 2025**),
   
 ---
 
-## 📊 GitHub Stats
-![Patrihow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrihow&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrihow&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=patrihow&theme=radical&hide_border=true)  
-
----
-
 ## 💼 Opportunities
 Open to **freelance & full-time** roles (from Oct 2025):  
 - Front-end dev (React / Vue / JavaScript)  
