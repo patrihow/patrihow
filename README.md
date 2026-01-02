@@ -18,27 +18,27 @@ I recently completed my specialization in web design and front-end development (
 ### Fondation du Grand Montréal — Freelance Front-End & WordPress Developer  
 **Nov 2025 – Dec 2025 | Montréal, QC** 🔗 [fgmtl.org](https://fgmtl.org/)
 
-- • Led full **website redesign** from Figma wireframes to production-ready WordPress implementation  
-- • Developed **custom post types and meta boxes**, enabling structured content and editorial autonomy  
-- • Implemented a **design system** to ensure visual consistency and maintainability  
-- • Used **Elementor Pro** strategically to empower the communications team for independent updates  
-- • Re-architected **navigation and content hierarchy**, improving discoverability and accessibility (WCAG 2.1)  
-- • Delivered **documentation and training** for internal teams to manage layouts and updates  
+- Led full **website redesign** from Figma wireframes to production-ready WordPress implementation  
+- Developed **custom post types and meta boxes**, enabling structured content and editorial autonomy  
+- Implemented a **design system** to ensure visual consistency and maintainability  
+- Used **Elementor Pro** strategically to empower the communications team for independent updates  
+- Re-architected **navigation and content hierarchy**, improving discoverability and accessibility (WCAG 2.1)  
+- Delivered **documentation and training** for internal teams to manage layouts and updates  
 
 ### Front-End Web Developer — Internship  
 **Aug 2025 – Oct 2025 | Montréal, QC**  
 
-- • Supported modernization of **digital communication platforms** to enhance accessibility and clarity  
-- • Built **content structure and CMS workflows** aligned with community-focused mission  
-- • Collaborated with cross-functional teams to integrate **UX/UI design into production**  
+- Supported modernization of **digital communication platforms** to enhance accessibility and clarity  
+- Built **content structure and CMS workflows** aligned with community-focused mission  
+- Collaborated with cross-functional teams to integrate **UX/UI design into production**  
 
 ### QUÉtAL — Web Designer & Communications Coordinator  
 **Mar 2023 – Dec 2023 | Montréal, QC**  
 
-- • Redesigned **website interface and architecture**, increasing traffic by 22%  
-- • Developed **responsive web visuals** aligned with brand strategy across desktop and mobile  
-- • Executed **digital marketing campaigns**, boosting event participation by 30%  
-- • Collaborated with teams to **manage project timelines** and deliver high-quality results  
+- Redesigned **website interface and architecture**, increasing traffic by 22%  
+- Developed **responsive web visuals** aligned with brand strategy across desktop and mobile  
+- Executed **digital marketing campaigns**, boosting event participation by 30%  
+- Collaborated with teams to **manage project timelines** and deliver high-quality results  
 
 ---
 
