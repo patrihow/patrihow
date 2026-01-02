@@ -13,6 +13,38 @@ I recently completed my specialization in web design and front-end development (
 
 ---
 
+## 🚀 Professional Experience
+
+### Fondation du Grand Montréal — Freelance Front-End & WordPress Developer  
+**Nov 2025 – Dec 2025 | Montréal, QC** 🔗 [fgmtl.org](https://fgmtl.org/)
+
+- • Led full **website redesign** from Figma wireframes to production-ready WordPress implementation  
+- • Developed **custom post types and meta boxes**, enabling structured content and editorial autonomy  
+- • Implemented a **design system** to ensure visual consistency and maintainability  
+- • Used **Elementor Pro** strategically to empower the communications team for independent updates  
+- • Re-architected **navigation and content hierarchy**, improving discoverability and accessibility (WCAG 2.1)  
+- • Delivered **documentation and training** for internal teams to manage layouts and updates  
+
+### Front-End Web Developer — Internship  
+**Aug 2025 – Oct 2025 | Montréal, QC**  
+
+- • Supported modernization of **digital communication platforms** to enhance accessibility and clarity  
+- • Built **content structure and CMS workflows** aligned with community-focused mission  
+- • Collaborated with cross-functional teams to integrate **UX/UI design into production**  
+
+### QUÉtAL — Web Designer & Communications Coordinator  
+**Mar 2023 – Dec 2023 | Montréal, QC**  
+
+- • Redesigned **website interface and architecture**, increasing traffic by 22%  
+- • Developed **responsive web visuals** aligned with brand strategy across desktop and mobile  
+- • Executed **digital marketing campaigns**, boosting event participation by 30%  
+- • Collaborated with teams to **manage project timelines** and deliver high-quality results  
+
+---
+
+### 🔗 More Experience  
+For a full overview of my professional history and achievements, please visit my **LinkedIn**: [Patricia Bravo](https://www.linkedin.com/in/patrihow/)  
+
 ## 🛠️ Tech Stack  
 
 ### Front-End
@@ -46,32 +78,6 @@ I recently completed my specialization in web design and front-end development (
 - Design and implement **scalable UI systems** that support long-term growth.
 - Add **motion and interaction** (GSAP, micro-interactions) to enhance storytelling and usability.
 - Act as a bridge between **design, development, and content teams**, ensuring clarity and sustainability.
-
----
-
-## 🚀 Professional Experience
-
-### WordPress website redesign — Non-Profit Organization (Montréal)
-
-After completing my internship, I was invited to continue as a **freelance front-end & WordPress developer** to lead the **full redesign** of the organization’s website:  
-🔗 https://fgmtl.org/
-
-**Scope & Responsibilities**
-- Led the redesign from **UX wireframes and visual concepts in Figma** to production.
-- Developed a **custom WordPress implementation**, including:
-  - Custom post types for structured content
-  - Custom meta boxes tailored to editorial needs
-  - A scalable and maintainable content architecture
-- Implemented a **design system** to ensure visual consistency across pages.
-- Used **Elementor Pro strategically** as an enablement tool:
-  - Empowered the communications team to update content independently
-  - Reduced reliance on developers for day-to-day changes
-- Collaborated closely with non-technical stakeholders, translating technical constraints into clear workflows.
-
-**Outcome**
-- Improved content clarity and information hierarchy
-- Increased autonomy of the communications team
-- Delivered a sustainable, accessible website aligned with the organization’s mission
 
 ---
 
