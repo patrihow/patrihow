@@ -7,8 +7,7 @@
 
 I’m a **front-end developer and UX/UI designer** based in Montréal, with **7+ years of experience in digital design** and a strong focus on **custom WordPress and CMS-driven websites**.
 
-I specialize in bridging **design systems, accessibility, and front-end development** to deliver scalable, maintainable, and user-centered web experiences.  
-My background allows me to collaborate seamlessly with designers, developers, and non-technical teams.
+I specialize in bridging **design systems, accessibility, and front-end development** to deliver scalable, maintainable, and user-centered web experiences. My background allows me to collaborate seamlessly with designers, developers, and non-technical teams.
 
 I recently completed my specialization in web design and front-end development (October 2025) and finished my professional internship in December 2025. I am now fully focused on front-end and WordPress development projects.
 
